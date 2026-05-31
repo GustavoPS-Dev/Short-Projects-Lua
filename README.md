@@ -14,6 +14,6 @@ Neste Repositório, estão alguns dos meus projetos simples escritos em Lua, tod
 2. Abra o CMD do Windows ou Use o VS code
 3. Execute:
 
-'''bash
+```bash
 
 lua NomeDoProjeto.lua
