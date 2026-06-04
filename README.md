@@ -1,6 +1,6 @@
-# Meus projetos
+# My Projects
 
-Neste Repositório, estão alguns dos meus projetos simples escritos em Lua, todos foram desenvolvidos em menos de 2 horas cada sem IA, sendo eles:
+This repository contains some of my simple projects written in Lua. All of them were developed in less than 2 hours each, without using AI:
 
 1. Banco.lua
 2. DesafioAdivinhar.lua
@@ -8,12 +8,11 @@ Neste Repositório, estão alguns dos meus projetos simples escritos em Lua, tod
 4. teste.lua
 5. Separador.lua
 
-## Como executar
+## How to Run
 
-1. Instale o lua
-2. Abra o CMD do Windows ou Use o VS code
-3. Execute:
+1. Install Lua.
+2. Open the Windows Command Prompt or use Visual Studio Code.
+3. Run:
 
 ```bash
-
-lua NomeDoProjeto.lua
+lua ProjectName.lua
