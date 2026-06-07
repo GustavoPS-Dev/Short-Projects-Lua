@@ -34,7 +34,7 @@ local function Definir_personagem (Escolha)
        }
             print(personagem.Classe, "Vida:" .. personagem.Vida,  "Dano:" .. personagem.Dano)
             
-            print("Habilidades: 1/2. 1-Pisotear:Dano 4, 2-Ira do tita:No porximo ataque de 6 de dano.")
+            print("Habilidades: 1/2. 1-Pisotear:Dano 4, 2-Ira do tita:No porximo ataque cause 6 de dano.")
  
     else
 
@@ -185,7 +185,7 @@ local function Batalha_Um ()
            
             else
 
-                print("Perdeu o turo, use 1 ou 2")
+                print("Perdeu o turno, use 1 ou 2")
 
                 return
 
