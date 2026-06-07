@@ -1,6 +1,6 @@
 # My Projects
 
-This repository contains some of my simple projects written in Lua. All of them were developed in less than 2 hours each, without using AI:
+This repository contains some of my simple projects written in Lua. They were all developed independently in less than 2 hours each:
 
 1. Banco.lua -A code that mimics a banking system. With registration, password login, balance, deposit, withdrawal, and account deletion, all of this is saved in a separate file.
 2. DesafioAdivinhar.lua -A game of guessing a secret number, with clues indicating whether the number is higher or lower, and which can be repeated multiple times.
